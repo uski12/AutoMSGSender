@@ -1,0 +1,14 @@
+main: me.uski12.AutoMessageSender.main
+name: AutoMessageSender
+version: 3.0.0
+author: uski12 
+description: Simple plugin to automatically broadcast messages in chat periodically.
+
+commands:
+  amstart:
+    description: Starts the plugin.
+  amstop:
+    description: Stops the plugins (and sends a message confirming so).
+  amreload:
+    description: Reloads the config files if any changes have been made.
+    

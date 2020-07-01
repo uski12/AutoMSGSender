@@ -1,0 +1,5 @@
+interval: 300  #in seconds.
+messages: #format: - "text" | use color code formats using &, Eg: "&6Hello World."
+- "&6Example."
+- "&6&lExample2."
+- "&6Our link: &1&mlink"
