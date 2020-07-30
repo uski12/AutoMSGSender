@@ -1,0 +1,14 @@
+autoStart: true #replace with false to disable auto startup on server reload/start.
+
+random: false #replace with true if you want the messages to be chosen in an order starting from the first.
+#random messages have a good chance of repeating the same message; It is meant for 10+ messages where the chance of repetition is lower
+
+manualBroadcastCommand: true #allows usage of /ams broadcast. Replace with false to disable it. Only OP/console can use this
+interval: 300  #in seconds.
+
+messages: #format: - "text" | use color code formats using &, Eg: "&6Hello World."
+- "&6Example."
+- "&6&lExample2."
+- "&6Our link: &1&mlink"
+- "&6Examples for days!"
+- "&1Hello there!"
