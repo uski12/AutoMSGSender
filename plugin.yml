@@ -1,0 +1,10 @@
+main: me.uski12.AutoMessageSender.main
+name: AutoMessageSender
+version: 3.5
+author: uski12 
+description: Simple plugin to automatically broadcast messages in chat periodically.
+api-version: 1.15
+
+commands:
+  automessagesender:
+    aliases: ams
